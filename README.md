@@ -12,6 +12,18 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
+### Scraping movie data from The Movie Database (TMDB) public API's
+
+**Code:** [Top Movies](https://github.com/eleanorpartington/portfolio/blob/main/Top%20Movies.ipynb)
+
+**Goal:** To create a DataFrame of top movies by average votes from users.
+
+**Skills:** data gathering, data cleaning.
+
+**Technology:** Python, Pandas, JSON, Requests.
+
+**Results:** Using Python functions we have saved a csv file of the top movies from the TMDB website ready for analysis. 
+
 ### Analysing the average GDP against average the Life Expectancy across six Countries
 
 **Code:** [GDP and Life Expectancy](https://github.com/eleanorpartington/portfolio/blob/main/project%20gdp.ipynb)
