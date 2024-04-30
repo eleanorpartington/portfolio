@@ -1,4 +1,15 @@
 # Eleanor Partington - Data Analyst Portfolio
+## Table of Contents
+- [About](#about)
+- [Projects](#projects)
+  - Tableau
+    - [Movie Visualisations](#creating-visualisations-of-top-movies-dataset)
+  - Python
+    - [Using Public APIs](#scraping-movie-data-from-the-movie-database-tmdb-public-apis)
+    - [GDP against Life Expectancy](#analysing-the-average-gdp-against-average-the-life-expectancy-across-six-countries)
+    - [Analysing Species](#analysing-species)
+- [Contact](#contact)
+
 ## About
 Hello! I'm a passionate and detail-oriented professional with a background in pharmacy, now embarking on a journey into the world of data analysis. 
 
@@ -10,9 +21,21 @@ Whether you are an experienced data analyst, industry expert, or someone with in
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Portfolio Projects
+## Projects
 
-### Scraping movie data from The Movie Database (TMDB) public API's
+### Creating Visualisations of Top Movies Dataset
+
+**Link:** [Link to Dashboard on Tableau](https://public.tableau.com/views/TopMovies_17144940892630/Attributes?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Goal:** To create visualisations of findings in the dataset.
+
+**Skills:** data visualisation.
+
+**Technology:** Tableau.
+
+**Results:** Created a dashboard of visualisations from a csv file we had previously obtained using an API.
+
+### Scraping movie data from The Movie Database (TMDB) public APIs
 
 **Code:** [Top Movies](https://github.com/eleanorpartington/portfolio/blob/main/Top%20Movies.ipynb)
 
