@@ -11,15 +11,11 @@
 - [Contact](#contact)
 
 ## About
-Hello! I'm a passionate and detail-oriented professional with a background in pharmacy, now embarking on a journey into the world of data analysis. 
+I’m a Data Analyst at GlobalData with a BSc in Mathematics and experience in analysing beverage datasets across global markets. I specialise in data cleaning, transformation, and trend analysis using Excel, with growing proficiency in Python, SQL, and Tableau.
 
-With a solid foundation in pharmacy, I bring a unique perspective to data analysis, combining strong analytical skills with a deep understanding of healthcare processes. 
+Previously, I led teams and drove KPIs in retail management at Boots, where I developed a strong foundation in communication, problem-solving, and decision-making. I now combine these skills with analytical accuracy to deliver insights that improve data quality.
 
-Eager to apply my skills in a new context, I am currently honing my expertise in data analysis through Codecademy lessons and building my portfolio.
-
-Whether you are an experienced data analyst, industry expert, or someone with insights into the transition process, I would love to connect and learn from your experiences.
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Whether you are an experienced data analyst or passionate about data analysis, I would love to connect and learn from your experiences.
 
 ## Projects
 
