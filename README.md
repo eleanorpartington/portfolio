@@ -23,9 +23,18 @@ Whether you are an experienced data analyst or passionate about data analysis, I
 
 **Link:** [Link to Dashboard on Tableau](https://public.tableau.com/views/TopMovies_17144940892630/Attributes?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-**Goal:** To create visualisations of findings in the dataset.
+**Question:** What are the common attibutes amongst the top global movies?
 
-**Skills:** data visualisation.
+**Data Source:**: 
+Movie data and API from: https://www.themoviedb.org/?language=en-GB
+API request limiting: https://developer.themoviedb.org/docs/rate-limiting
+
+**Aproach:** Investigate the attributes gathered, creating a Tableau dashboard to explore the common attributes.
+
+**Key Outputs:** 
+<img width="1421" height="1423" alt="image" src="https://github.com/user-attachments/assets/fb00a0c8-0ca7-4fc4-968b-b1ce0d8d7a06" />
+
+**Limitations:** The dataset is static, if the Top Movies list changes, the dataset would need to be updated using the API. 
 
 **Technology:** Tableau.
 
