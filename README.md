@@ -27,7 +27,7 @@ Whether you are an experienced data analyst or passionate about data analysis, I
 
 **Data Source:** https://www.themoviedb.org/?language=en-GB
 
-**Aproach:** Investigate the attributes gathered, creating a Tableau dashboard to explore the common attributes.
+**Approach:** Investigate the attributes gathered, creating a Tableau dashboard to explore the common attributes.
 
 **Key Outputs:** 
 <img width="1421" height="1423" alt="image" src="https://github.com/user-attachments/assets/fb00a0c8-0ca7-4fc4-968b-b1ce0d8d7a06" />
