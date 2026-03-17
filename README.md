@@ -25,9 +25,7 @@ Whether you are an experienced data analyst or passionate about data analysis, I
 
 **Question:** What are the common attibutes amongst the top global movies?
 
-**Data Source:** 
-Movie data and API from: https://www.themoviedb.org/?language=en-GB
-API request limiting: https://developer.themoviedb.org/docs/rate-limiting
+**Data Source:** https://www.themoviedb.org/?language=en-GB
 
 **Aproach:** Investigate the attributes gathered, creating a Tableau dashboard to explore the common attributes.
 
